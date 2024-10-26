@@ -23,7 +23,7 @@ cd projects
 # Clone repository
 git clone https://github.com/ZetaGo-Aurum/Aleocrhopic.git
 # Masuk ke direktori hasil clone
-cd Javascript-encryptor-decryptor
+cd Js-tools
 ```
 
 ### 3. Setup Environment dan Instalasi Dependencies
