@@ -103,7 +103,7 @@ deactivate
 
 # Hapus folder project
 cd ..
-rm -rf Javascript-encryptor-decryptor
+rm -rf Js-tools
 ```
 
 4. Untuk update script ke versi terbaru:
