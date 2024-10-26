@@ -21,7 +21,7 @@ mkdir projects
 cd projects
 
 # Clone repository
-git clone https://github.com/RayhanDz/Javascript-encryptor-decryptor.git
+git clone https://github.com/ZetaGo-Aurum/Aleocrhopic
 
 # Masuk ke direktori hasil clone
 cd Javascript-encryptor-decryptor
