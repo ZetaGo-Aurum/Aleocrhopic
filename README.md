@@ -98,7 +98,7 @@ cd ..
 rm -rf Js-tools
 ```
 
-4. Untuk update script ke versi terbaru:
+3. Untuk update script ke versi terbaru:
    
 git pull origin main
 pip install -r requirements.txt
