@@ -55,7 +55,7 @@ python3 Javascript-encryptor-decryptor.py
 Jika mengalami masalah saat instalasi, coba:
 # Di Termux
 pkg install build-essential
-pkg install python-dev
+pkg install python3-dev
 pkg install openssl-dev
 pkg install libffi-dev
 
