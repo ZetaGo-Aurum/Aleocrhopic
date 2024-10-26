@@ -88,15 +88,7 @@ git checkout [commit-hash]
 
 1. Pastikan Anda memiliki koneksi internet yang stabil
 
-2. Jika repository belum tersedia di GitHub, Anda perlu:
-
-   - Membuat repository di GitHub terlebih dahulu
-   
-   - Push kode ke repository tersebut
-   
-   - Baru kemudian bisa melakukan clone
-
-3. Untuk menghapus instalasi:
+2. Untuk menghapus instalasi:
 ```bash
 # Nonaktifkan virtual environment jika digunakan
 deactivate
