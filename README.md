@@ -5,7 +5,7 @@
 # Di Termux
 pkg update && pkg upgrade
 pkg install git
-pkg install python
+pkg install python3
 
 # Di Linux (Ubuntu/Debian)
 sudo apt update && sudo apt upgrade
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### 4. Jalankan Script
 
 ```bash
-python Javascript-encryptor-decryptor.py
+python3 Javascript-encryptor-decryptor.py
 ```
 
 
